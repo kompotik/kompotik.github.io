@@ -1,6 +1,6 @@
 ---
 title: My page
-permalink: /
+permalink: /index.html
 ---
 
 # Компотик
