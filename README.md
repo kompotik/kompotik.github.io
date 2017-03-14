@@ -1,5 +1,6 @@
 ---
 title: My page
+permalink: /
 ---
 
 # Компотик
