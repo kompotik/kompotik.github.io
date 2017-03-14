@@ -1,7 +1,5 @@
 ---
 title: My page
-permalink: mypageurl.html
-layout: post
 ---
 
 # Компотик
