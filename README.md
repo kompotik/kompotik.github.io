@@ -1,6 +1,6 @@
 ---
-title: This is my title
-layout: post
+title: My page
+permalink: mypageurl.html
 ---
 
 # Компотик
