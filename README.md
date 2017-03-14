@@ -5,4 +5,6 @@
 
 ## Статистика «кто и сколько кодит»
 
-https://wakatime.com/share/@svetlana/77469ef3-fc3a-4ed9-86da-111f24ef35c1.svg
+### [Света Трошина](http://github.com/svetlana-troshina)
+
+<img src="https://wakatime.com/share/@svetlana/77469ef3-fc3a-4ed9-86da-111f24ef35c1.png" height="300" alt=""/>
