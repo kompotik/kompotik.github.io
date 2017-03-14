@@ -1,6 +1,6 @@
 ---
 title: Компотик
-permalink: /index.html
+permalink: index.html
 ---
 
 # Компотик
