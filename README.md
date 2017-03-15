@@ -1,12 +1,15 @@
-- [Наш плейлист на Ю-тьюбе](https://youtube.com/playlist?list=PLp85Etu01sAeBI6qD1oNRC7EKhF5CoeKg)
-- [Канал в Телеграме](https://t.me/joinchat/AAAAAEKmPzju-Mxu9paz3A)
-- [Чатик в Телеграме](https://t.me/joinchat/AAAAAEA0JFJZyv5ahegcVQ)
+## Наши места обитания
+
+- На Ю-тьюбе [плейлист](https://youtube.com/playlist?list=PLp85Etu01sAeBI6qD1oNRC7EKhF5CoeKg)
+- В Телеграме [чатик](https://t.me/joinchat/AAAAAEA0JFJZyv5ahegcVQ) и [канал](https://t.me/joinchat/AAAAAEKmPzju-Mxu9paz3A)
 
 
-# Участники проекта
+## Участники проекта
+
 И их статистика – сколько времени кодят.
 
-## Света
+
+### Света
 
 [@svetlana-troshina](http://github.com/svetlana-troshina)
 
