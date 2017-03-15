@@ -7,7 +7,7 @@
 | ---      | ---        |
 | Света | [<img src="https://wakatime.com/share/@svetlana/77469ef3-fc3a-4ed9-86da-111f24ef35c1.png" height="300" alt="По клику — история за 30 дней"/>](https://wakatime.com/share/@svetlana/2592d30e-b47d-4d8e-9075-42b2dc24b44b.svg) |
 
-По теме: [Гитхаб профили участников](https://github.com/orgs/kompotik/people)
+[Профили участников](https://github.com/orgs/kompotik/people) на ГитХабе
 
 
 ## Наши места обитания
