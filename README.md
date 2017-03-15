@@ -13,5 +13,5 @@
 ## Наши места обитания
 
 - На Ю-тьюбе [плейлист](https://youtube.com/playlist?list=PLp85Etu01sAeBI6qD1oNRC7EKhF5CoeKg)
-- В Телеграме [чатик](https://t.me/joinchat/AAAAAEA0JFJZyv5ahegcVQ) и [канал](https://t.me/joinchat/AAAAAEKmPzju-Mxu9paz3A)
+- В Телеграме [чатик](https://t.me/kompotik_chat) и [канал](https://t.me/kompotik_feed)
 - На Гитхабе [организация](https://github.com/kompotik)
