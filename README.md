@@ -6,10 +6,12 @@
 Ниже представлены графики, которые показывают кто и сколько времени потратил на кодинг за последние 7 дней. Если кликнуть по графику, откроется история за 30 дней.
 
 | Участник | Статистика |
-| :---     | :---:                                                   |
+| :---     | :---:      |
 | Света    | [<img src="https://wakatime.com/share/@svetlana/5ddde81c-26b9-4dce-a7ca-f7c1cc4a299f.png" height="300" alt="По клику — история за 30 дней"/>](https://wakatime.com/share/@svetlana/2592d30e-b47d-4d8e-9075-42b2dc24b44b.svg) |
 | Айрат    | [<img src="https://wakatime.com/share/@Ayrat/083400fa-6982-4b10-a0e1-5d81ef1f1fea.png" height="300" alt="По клику — история за 30 дней"/>](https://wakatime.com/share/@Ayrat/e694a8a9-6d54-43e0-b7d3-20b873582320.svg) |
 | Кирилл   | [<img src="https://wakatime.com/share/@f4eb4dfe-8143-43ef-972c-049f2f70e22e/ced37656-84bb-4ae8-84af-d24a6abf35d7.png" height="300" alt="По клику — история за 30 дней"/>](https://wakatime.com/share/@f4eb4dfe-8143-43ef-972c-049f2f70e22e/dc83902d-e979-4676-9dcb-6d04450a0b7f.svg) |
+| Артём    | [<img src="https://wakatime.com/share/@b5b22cc5-467a-4d0b-b410-12f556aef22d/44a7e465-8194-4071-8195-bb1d2ee0b378.png" height="300" alt="По клику — история за 30 дней"/>](https://wakatime.com/share/@b5b22cc5-467a-4d0b-b410-12f556aef22d/87afb21e-4674-4488-a28d-34f787a4d7c6.svg) |
+| Костя    | [<img src="https://wakatime.com/share/@4942ac04-3571-47be-9874-ec0ded68b6d8/4c96721d-7b5e-4a19-a18d-d5bf2331c34f.png" height="300" alt="По клику — история за 30 дней"/>](https://wakatime.com/share/@4942ac04-3571-47be-9874-ec0ded68b6d8/75d2f3ce-1f63-4de1-91c2-cc3cb56474a6.svg) |
 
 [Профили участников](https://github.com/orgs/kompotik/people) на ГитХабе
 
