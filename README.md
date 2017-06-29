@@ -12,7 +12,7 @@
 1. [Git Book на русском на оф. сайте](https://git-scm.com/book/ru/v2)
 
 
-**HTML тэги**
+### HTML тэги
 ```
 + html:5
 + div
@@ -35,7 +35,7 @@
 − video, audio
 ```
 
-**CSS**
+### CSS
 ```
 + display
 + padding
@@ -71,7 +71,7 @@
 + text-decoration
 ```
 
-**Git команды**
+### Git команды
 ```
 + git init
 + git status
