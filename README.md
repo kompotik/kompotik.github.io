@@ -9,6 +9,7 @@
 
 1. [Справочник по HTML](https://webref.ru/html)
 1. [Справочник по CSS](https://webref.ru/css)
+1. [Git Book на русском на оф. сайте](https://git-scm.com/book/ru/v2)
 
 
 **HTML тэги**
@@ -76,12 +77,14 @@
 + git status
 + git add
 + git commit
++ git log
 + git push
 + git pull
 + git remote add
 + git clone
 + git checkout
 + git checkout -b
+− git reset
 − git merge
 − git fetch
 ```
