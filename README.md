@@ -12,7 +12,6 @@
 
 
 **HTML тэги**
-
 ```
 + html:5
 + div
@@ -35,8 +34,43 @@
 − video, audio
 ```
 
-**Git команды**
+**CSS**
+```
++ display
++ padding
++ margin
++ border
+  + border-top, border-bottom, border-left, border-right
+  + border-image
+  + border-spacing
+  + border-collapse
+  + border-color
++ width
++ height
++ background
+  + background-color
+  + background-image
+  + background-repeat
+  + background-position
+  + background-size
++ opacity
++ float, clear
++ position, top, bottom, left, right
++ vertical-align
 
+для инлайн-элементов
++ text-align
++ color
++ line-height
++ font
+  + font-family
+  + font-size
+  + font-weight
+  + font-style
++ text-decoration
+```
+
+**Git команды**
 ```
 + git init
 + git status
@@ -52,7 +86,7 @@
 − git fetch
 ```
 
-Ещё будет блок про CSS. А когда начнем учить JS, то он тоже появится тут.
+Когда начнем учить JS, то он тоже появится тут.
 
 
 ## Статистика
