@@ -35,7 +35,8 @@
 - video, audio
 ```
 
-### CSS
+
+### CSS свойства
 ```
 + display
 + padding
@@ -46,21 +47,29 @@
   + border-spacing
   + border-collapse
   + border-color
-+ width
-+ height
+  + border-style
++ width, min-width, max-width
++ height, min-height, max-height
 + background
   + background-color
   + background-image
   + background-repeat
   + background-position
   + background-size
++ cursor
++ box-shadow
++ overflow, overflow-x, overflow-y
 + opacity
 + float, clear
 + position, top, bottom, left, right
 + vertical-align
+- box-sizing
+- z-index
 
-для инлайн-элементов
-+ text-align
+для инлайн и инлайн-блок элементов:
+если определить эти свойства для блок элемента,
+то они будут приняты инлановыми и инлайн-блочными наследниками
++ text-align, text-align-last
 + color
 + line-height
 + font
@@ -69,7 +78,13 @@
   + font-weight
   + font-style
 + text-decoration
++ text-transform
+- text-overflow
+- text-shadow
+- letter-spacing
+- white-space
 ```
+
 
 ### Git команды
 ```
