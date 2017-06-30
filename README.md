@@ -27,12 +27,12 @@
 + u
 + hr
 + style
-− ul>li, ol>li
-− button
-− form, input, label, textarea
-− pre
-− sub, sup
-− video, audio
+- ul>li, ol>li
+- button
+- form, input, label, textarea
+- pre
+- sub, sup
+- video, audio
 ```
 
 ### CSS
@@ -84,9 +84,9 @@
 + git clone
 + git checkout
 + git checkout -b
-− git reset
-− git merge
-− git fetch
+- git reset
+- git merge
+- git fetch
 ```
 
 Когда начнем учить JS, то он тоже появится тут.
