@@ -91,6 +91,7 @@
 + HTMLElemnet
   + .style #В19
   + .onclick #В19
+  + .dataset #В21
 
 + document
   + .querySelectorAll #В19
